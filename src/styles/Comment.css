@@ -1,0 +1,22 @@
+li {
+    border: 2px solid #13177a;
+    padding: 5px 10px;
+    margin: 0 auto;
+    margin-top: 10px;
+    font-size: 2em;
+}
+span {
+    font-weight: bold;
+    margin: 0 5px;
+    font-size: 0.5em;
+}
+button {
+    background-color: transparent;
+    border: none;
+}
+.fa-thumbs-up {
+    color:green;
+}
+.fa-thumbs-down {
+    color:red;
+}
